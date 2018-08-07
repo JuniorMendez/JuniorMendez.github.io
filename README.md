@@ -1,2 +1,2 @@
-﻿# Práctica de Seminario
+﻿# Práctica Final de Seminario 
 
